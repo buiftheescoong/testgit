@@ -12,6 +12,7 @@ int main(){
 	for(int i = 0; i < 11; i++){
         cout << FibonacciWord(i) << endl;
 	}
+	cout << "1";
 
 	return 0;
 }
