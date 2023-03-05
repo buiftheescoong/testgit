@@ -7,8 +7,9 @@ int main(){
     cin >> x >> y;
 
     int distance = sqrt(x * x + y * y);
+    int sum = x + y;
 
-    cout << distance;
+    cout << distance << endl << sum;
 
     return 0;
 
